@@ -1,0 +1,12 @@
+{
+  "name": "jv/testProject",
+  "type": "project",
+  "require-dev": {
+    "phpunit/phpunit": "^7"
+  },
+  "autoload": {
+    "psr-4": {
+      "com\\jv\\testProject\\": "src/splitwise/jv"
+    }
+  }
+}
